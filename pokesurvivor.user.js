@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         Poke Survivor Mod Menu & Auto Bot
 // @namespace    https://github.com/qanasasawdxc/doofcraft
-// @version      1.2.0
+// @version      1.2.1
 // @description  Menu hack và tính năng Auto cho Poke Survivor
 // @author       qanasasawdxc
 // @match        https://pokesurvivor.doofcraft.com/*
-// @icon         https://www.google.com/s2/favicons?domain=doofcraft.com
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/qanasasawdxc/doofcraft/main/pokesurvivor.user.js
 // @downloadURL  https://raw.githubusercontent.com/qanasasawdxc/doofcraft/main/pokesurvivor.user.js
