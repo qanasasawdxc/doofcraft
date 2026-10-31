@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Poke Survivor Mod Menu
-// @namespace    https://github.com/TEN_GITHUB_CUA_BAN/pokesurvivor-hack
+// @namespace    https://github.com/qanasasawdxc/pokesurvivor-hack
 // @version      1.0.0
 // @description  Menu hack chuyên nghiệp cho Poke Survivor trên Doofcraft
 // @author       qanasasawdxc
